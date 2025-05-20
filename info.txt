@@ -1,0 +1,7 @@
+/* 
+$host = 'localhost';
+$user = 'root';
+$password_sql = '';
+$passwordBd = '';
+$dbname = 'c1402791_ddd'; 
+*/

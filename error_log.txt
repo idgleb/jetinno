@@ -1,0 +1,32 @@
+2024-10-16 03:18:52 - Access denied for user 'root'@'localhost' (using password: YES)
+2024-10-17 22:12:36 - php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+2024-10-17 22:12:51 - php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+2024-10-17 22:13:20 - php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+2024-10-18 01:02:46 - Access denied for user ''@'localhost' (using password: NO)
+2024-11-08 00:15:01 - php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+2024-11-08 00:15:37 - php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+2024-11-08 00:16:22 - php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+2024-11-21 20:34:46 - No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-11-21 20:36:39 - No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-11-21 21:19:09 - No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-12-14 05:29:24 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 05:29:58 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 05:30:10 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 05:30:59 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 05:31:17 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 05:31:22 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 05:31:42 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 05:31:47 - Access denied for user 'r44oot'@'localhost' (using password: NO)
+2024-12-14 06:24:15 - Access denied for user 'roeeot'@'localhost' (using password: NO)
+2024-12-18 10:53:38 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 10:54:16 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 10:55:30 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 10:55:37 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 10:57:36 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 10:58:21 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 11:05:40 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 11:07:55 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 11:08:02 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 11:10:22 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-18 11:12:07 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci' at line 7
+2024-12-19 13:12:56 - Access denied for user 'c1402791_ddd'@'localhost' (using password: NO)
