@@ -154,9 +154,9 @@ composer install
 
 Para más información sobre el desarrollo de este proyecto:
 
-- 📧 Email: [contacto@jetinno.store](mailto:contacto@jetinno.store)
+- 📧 Email: [argentinagleb73@gmail.com](mailto:argentinagleb73@gmail.com)
 - 🌐 Sitio web: [https://jetinno.store](https://jetinno.store)
-- 📱 LinkedIn: [Jetinno Argentina](https://linkedin.com/in/jetinno-argentina)
+- 📱 LinkedIn: [Ursol Gleb](https://www.linkedin.com/in/gleb-ursol-855725326/)
 
 ---
 
